@@ -13,3 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github.com/Ryujin-Jakka/github-stats/blob/master/generated/overview.svg)  ![](https://github.com/Ryujin-Jakka/github-stats/blob/master/generated/languages.svg)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryujin-Jakka&count_private=true&show_icons=true&hide=issues,contribs&theme=github_dark)
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ryujin-Jakka&langs_count=5&custom_title=Ryujin Jakka's%20Coding%20Stats&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
