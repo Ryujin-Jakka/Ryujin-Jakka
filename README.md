@@ -12,6 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github.com/Ryujin-Jakka/github-stats/blob/master/generated/overview.svg)
-
-![](https://github.com/Ryujin-Jakka/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/Ryujin-Jakka/github-stats/blob/master/generated/overview.svg)  ![](https://github.com/Ryujin-Jakka/github-stats/blob/master/generated/languages.svg)
