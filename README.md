@@ -19,7 +19,7 @@ I'm an ICT Expert, B.Sc. in Computer Science. Want to know more about me? Try ta
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
-</br>
+</br></br></br>
 
 <div style="display: inline_block">
   <a href="https://github.com/Ryujin-Jakka">
