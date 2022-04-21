@@ -50,5 +50,5 @@ I'm an ICT Expert, B.Sc. in Computer Science. Want to know more about me? Try ta
 <div style="display: inline_block">
   <a href="https://github.com/Ryujin-Jakka">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ryujin-Jakka&show_icons=true&theme=github_dark &title_color=4c40f7&icon_color=4c40f7&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Ryujin-Jakka&theme=github_dark &hide_border=true&fire=4c40f7&ring=4c40f7&currStreakLabel=4c40f7" width = 400>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Ryujin-Jakka&theme=github_dark&hide_border=true&fire=4c40f7&ring=4c40f7&currStreakLabel=4c40f7" width = 400>
 </div>
