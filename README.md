@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github.com/Ryujin-Jakka/github-stats/blob/master/generated/overview.svg)  ![](https://github.com/Ryujin-Jakka/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/Ryujin-Jakka/github-stats/blob/master/generated/overview.svg)  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RyujinJakka)](https://github.com/Ryujin-Jakka/github-readme-stats)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryujin-Jakka&count_private=true&show_icons=true&hide=issues,contribs&theme=github_dark) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RyujinJakka)](https://github.com/Ryujin-Jakka/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryujin-Jakka&count_private=true&show_icons=true&hide=issues,contribs&theme=github_dark) ![](https://github.com/Ryujin-Jakka/github-stats/blob/master/generated/languages.svg)
