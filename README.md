@@ -1,6 +1,9 @@
-<img style="border-radius: 50%" align="left" width="160" height="160" alt="Job" src="https://github.com/Ryujin-Jakka/data/blob/main/icons/avatar.gif"/>
+<div style="border-radius: 50%">
+	<img align="left" width="160" height="160" alt="Job" src="https://github.com/Ryujin-Jakka/data/blob/main/icons/avatar.gif"/>
+</div>
+<h1>
 I'm an ICT Expert, B.Sc. in Computer Science. Want to know more about me? Try taking a look at my [Portfolio](https://Ryujin-Jakka.github.io/portfolio/).
-
+</h1>
 
 <img style="border-radius: 50%" align="left" width="160" height="160" alt="Job" src="https://github.com/Ryujin-Jakka/data/blob/main/icons/job.png"/>
 <div style="display: inline_block">
